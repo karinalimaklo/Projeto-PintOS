@@ -2,8 +2,8 @@
 Esse projeto consistiu na implementação de funcionalidades do sistema operacional PintOS.
 
 ## Objetivos
-[x] Alarm Clock
-[x] Advanced Scheduler - Multi-Level Feedback Queue (mlfqs)
+- [x] Alarm Clock
+- [x] Advanced Scheduler - Multi-Level Feedback Queue (mlfqs)
 
 ## Testes
 | #  | Teste                        | Funcionando |
